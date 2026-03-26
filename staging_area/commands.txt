@@ -1,0 +1,5 @@
+Staging Commands
+
+git add file.txt → add one file
+git add . → add all files
+git reset file.txt → remove from staging

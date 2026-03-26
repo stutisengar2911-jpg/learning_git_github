@@ -1,0 +1,10 @@
+Commit History
+
+Git stores all commits.
+
+Command:
+git log → view history
+
+Benefits:
+- Track changes
+- Restore old version

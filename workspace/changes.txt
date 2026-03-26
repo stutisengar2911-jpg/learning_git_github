@@ -1,0 +1,9 @@
+Changes in Workspace
+
+Types of changes:
+- New files
+- Modified files
+- Deleted files
+
+Command:
+git status → check changes

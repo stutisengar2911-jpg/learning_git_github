@@ -1,0 +1,8 @@
+Push and Pull
+
+Push → upload code to GitHub
+Pull → download latest code
+
+Commands:
+git push origin main
+git pull origin main

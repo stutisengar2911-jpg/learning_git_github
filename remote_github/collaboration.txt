@@ -1,0 +1,10 @@
+Collaboration
+
+GitHub helps people work together.
+
+Features:
+- Share code
+- Teamwork
+- Open source
+
+Developers push and pull changes regularly.

@@ -1,0 +1,10 @@
+Commit in Git
+
+Commit means saving changes in Git.
+
+Key Points:
+- Each commit has message
+- Snapshot of project
+
+Example:
+git commit -m "Added file"

@@ -1,0 +1,10 @@
+Staging Area
+
+Staging area is where files are prepared before commit.
+
+Key Points:
+- Temporary area
+- Files added using git add
+
+Example:
+git add . → add all files

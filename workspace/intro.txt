@@ -1,0 +1,8 @@
+Workspace (Working Directory)
+
+Workspace is the place where we create and edit files.
+
+Key Points:
+- First stage of Git
+- Files are not tracked yet
+- Changes are made here
